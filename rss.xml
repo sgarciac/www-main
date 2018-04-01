@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crazyrobot Blog</title>
+    <link>http://blog.crazyrobot.net/</link>
+    <description>Recent content on Crazyrobot Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jan 2018 22:47:03 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.crazyrobot.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>blog moved!</title>
+      <link>http://blog.crazyrobot.net/index.xml</link>
+      <pubDate>Sat, 06 Jan 2018 22:47:03 +0000</pubDate>
+      
+      <guid>http://blog.crazyrobot.net/moved.xml</guid>
+      <description>This feed has moved to http://blog.crazyrobot.net/index.xml.</description>
+    </item>
+  </channel>
+</rss>
+
