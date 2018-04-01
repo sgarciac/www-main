@@ -1,0 +1,23 @@
+#!/usr/bin/ruby
+require 'rubygems'
+require 'redis'
+require 'cgi'
+
+
+cgi = CGI.new
+h = cgi.params 
+
+user = cgi['user']
+msg = cgi['msg']
+
+r = Redis.new
+r.lpush 'smdr.requests', '@'+user+' '+msg 
+
+
+
+
+puts cgi.header
+puts "<html><body>This is a test"
+puts user
+puts msg
+puts "</body></html>"

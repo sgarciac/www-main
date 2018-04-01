@@ -1,0 +1,61 @@
+<html>
+<body bgcolor="White">
+<title>Torta</title>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<center><table width="721"><TR><TD>
+<OBJECT CLASSID="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ WIDTH="720"
+ HEIGHT="405"
+ CODEBASE="http://active.macromedia.com/flash5/cabs/swflash.cab#version=6,0,23,0">
+  <PARAM NAME="MOVIE" VALUE="kdebase.swf">
+  <PARAM NAME="PLAY" VALUE="true">
+  <PARAM NAME="LOOP" VALUE="true">
+  <PARAM NAME="QUALITY" VALUE="high">
+  <EMBED SRC="kdebase.swf" WIDTH="720" HEIGHT="405"
+   PLAY="true" ALIGN="" LOOP="true" QUALITY="high"
+   TYPE="application/x-shockwave-flash"
+   PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">
+  </EMBED>
+</OBJECT>
+<br><center class="verysmall">Roll the mouse over the graphic to see details</center><br>
+<SPAN class="specialtext">Torta</SPAN><p/>
+Torta shows you where your disk space is going. It uses the graphical format used by the the awesome program <a href="http://www.methylblue.com/filelight/">filelight</a> to represent disk usage. Unlike <a href="http://www.methylblue.com/filelight/">filelight</a>, Torta does not need a graphical environment. Instead, Torta generates a flash file that can then be seen using any browser that has the <a href="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">flash plugin</a> installed.<p/>
+Torta uses Gordon, a library that provides flash generation functionality.
+<p/>
+<SPAN class="specialtext">Examples</SPAN><p/>
+<a href="sbcl.swf">SBCL sources</a><br/>
+<a href="myusr.swf">Sergio's /usr</a><br/>
+<a href="kdebase.swf">kdebase</a>
+<p/>
+
+
+<SPAN class="specialtext">Download</SPAN><p/>
+Torta, as well as Gordon, is <a href="http://www.gnu.org/philosophy/free-sw.html">free software</a>. This means that you are free to use it and modify it without any restriction. You are also free to redistribute the program, or any work derived from it, as long as you respect the terms of <a href="http://www.gnu.org/copyleft/lesser.html">its license</a>.<p/>
+
+Incidentally, you can get copies of Torta and Gordon from here, at no cost:<p/>
+<a href="gordon.tar.gz">gordon-0.1.tar.gz</a> <b>(required)</b><br/>
+<a href="torta.tar.gz">torta-0.1.tar.gz</a><p/>
+
+
+<SPAN class="specialtext">Requirements and Installation</SPAN><p/>
+Torta is implemented in the common lisp language, so you need to have a common lisp implementation installed. In theory, any Common Lisp implementation should work, but I have only tested Torta under <a href="http://www.sbcl.org">SBCL</a>, <A href="http://www.cons.org/cmucl/">CMUCL</A> and <a href="http://clisp.cons.org/">CLisp</a>. Finally, torta makes use of the unix utility <b>du</b> which is installed on most unix like systems. I have tested torta succesfully on Debian and Solaris operating systems.<p/>
+
+Torta and Gordon are distributed with their own ASDF files for installation. See this <a href="http://cvs.sourceforge.net/viewcvs.py/*checkout*/cclan/asdf-install/doc/index.html">tutorial</a> for instructions on how to install Gordon and Torta.<p/>
+<SPAN class="specialtext">Usage</SPAN><p/>
+Torta provides only one function:<p/>
+<b>(torta:torta "/path/to/directory/to/watch" "output.swf")</b><p>
+
+<SPAN class="specialtext">Final words</SPAN><p/>
+I have only ran Torta a couple of times so far, so there are probably plenty of bugs. The code of both torta and gordon is in a "just make it work" state and it needs serious cleaning. Send me bug reports, praise, insults, love declarations and others to sergio.garcia@gmail.com<p>
+If you like Torta, let me know about it. Please consider having a look at the following movements:<p>
+<a href="http://www.fsf.org"><IMG src="http://gnuweb.binarycompass.org/graphics/fsf-wh.jpg" align="left" border="0"></a> <a href="http://www.amnesty.org"><IMG src="http://www.amnesty.org/images/banners/banner1-grey/banner1-120x60-eng.jpg" align="left" border="0"></a>
+
+
+</TD></TR></table>
+</center>
+
+</body>
+</html>

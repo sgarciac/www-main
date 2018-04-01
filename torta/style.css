@@ -1,0 +1,8 @@
+body {  font-family: Georgia, "Times New Roman", Times, serif;
+	}
+.specialtable {  border-top: #666666 solid 1px }
+.specialtext { color: #991F00;
+	       font-weight: bold;
+	    font-family: Arial; }
+.teaser {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 75%}
+.verysmall {font-family: Verdana, Arial, Helvetica; font-size: 50% }

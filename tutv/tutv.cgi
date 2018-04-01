@@ -1,0 +1,19 @@
+#!/bin/bash
+QUERY_STRING=${QUERY_STRING//[^a-zA-Z0-9+]/}
+CHECKSUM=`echo $QUERY_STRING | md5sum | cut -d " " -f1`
+if [ -f "turnupthevolume_$CHECKSUM.jpg" ]
+then
+ echo "Location: http://www.crazyrobot.net/tutv/turnupthevolume_$CHECKSUM.jpg"
+ echo ""
+ exit 0
+fi
+app_credentials=`echo -n c31a493b05cd478aa15d081fdd321bef:9f30041a09414e02ba19c90398f01b34 | base64 -w 0`
+access_token=`curl -s -H "authorization: Basic $app_credentials" -d "grant_type=client_credentials" https://accounts.spotify.com/api/token | jq '.access_token' | tr -d \"`
+
+curl -s -H "Authorization: Bearer $access_token" "https://api.spotify.com/v1/search?q=$QUERY_STRING&type=album" | jq '.albums.items[0].images[1].url' | tr -d \" | xargs curl -s -o input_$CHECKSUM.jpg
+convert input_$CHECKSUM.jpg    -resize 435x435\!  resized_$CHECKSUM.jpg
+composite resized_$CHECKSUM.jpg base_turnup.jpg turnupthevolume_$CHECKSUM.jpg
+
+echo "Location: http://www.crazyrobot.net/tutv/turnupthevolume_$CHECKSUM.jpg"
+echo ""
+

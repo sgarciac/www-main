@@ -1,0 +1,1000 @@
+[31136] 16 Feb 04:20:29 # Warning: no config file specified, using the default config. In order to specify a config file use 'redis-server /path/to/redis.conf'
+[31136] 16 Feb 04:20:29 * Server started, Redis version 2.0.4
+[31136] 16 Feb 04:20:29 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[31136] 16 Feb 04:20:29 * The server is now ready to accept connections on port 6379
+[31136] 16 Feb 04:20:29 - 0 clients connected (0 slaves), 533436 bytes in use
+[31136] 16 Feb 04:20:34 - 0 clients connected (0 slaves), 533436 bytes in use
+[31136] 16 Feb 04:20:39 - 0 clients connected (0 slaves), 533436 bytes in use
+[31136] 16 Feb 04:20:44 - 0 clients connected (0 slaves), 533436 bytes in use
+[31136] 16 Feb 04:20:45 - Accepted 127.0.0.1:47927
+[31136] 16 Feb 04:20:45 - Client closed connection
+[31136] 16 Feb 04:20:49 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:20:54 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:20:59 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:21:04 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:21:09 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:21:14 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:21:19 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:21:24 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:21:29 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:21:34 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:21:39 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:21:44 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:21:49 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:21:54 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:21:59 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:22:04 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:22:09 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:22:14 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:22:19 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:22:24 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:22:29 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:22:34 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:22:39 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:22:44 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:22:49 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:22:54 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:22:59 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:23:04 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:23:09 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:23:14 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:23:19 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:23:24 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:23:29 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:23:34 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:23:39 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:23:44 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:23:49 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:23:54 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:23:59 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:24:04 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:24:09 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:24:14 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:24:19 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:24:24 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:24:29 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:24:34 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:24:39 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:24:44 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:24:49 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:24:54 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:25:00 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:25:05 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:25:10 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:25:15 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:25:20 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:25:25 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:25:30 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:25:35 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:25:40 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:25:45 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:25:50 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:25:55 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:26:00 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:26:05 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:26:10 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:26:15 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:26:20 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:26:25 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:26:30 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:26:35 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:26:40 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:26:45 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:26:50 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:26:55 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:27:00 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:27:05 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:27:10 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:27:15 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:27:20 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:27:25 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:27:30 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:27:35 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:27:40 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:27:45 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:27:50 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:27:55 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:28:00 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:28:05 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:28:10 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:28:15 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:28:20 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:28:25 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:28:30 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:28:35 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:28:40 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:28:45 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:28:50 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:28:55 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:29:00 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:29:05 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:29:10 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:29:15 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:29:20 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:29:25 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:29:30 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:29:35 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:29:40 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:29:45 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:29:50 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:29:55 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:30:00 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:30:05 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:30:10 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:30:15 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:30:20 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:30:25 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:30:30 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:30:35 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:30:40 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:30:45 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:30:50 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:30:55 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:31:00 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:31:05 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:31:10 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:31:15 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:31:20 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:31:25 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:31:30 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:31:35 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:31:40 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:31:45 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:31:50 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:31:55 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:32:00 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:32:05 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:32:10 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:32:15 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:32:20 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:32:25 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:32:30 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:32:35 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:32:40 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:32:45 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:32:50 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:32:55 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:33:00 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:33:05 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:33:10 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:33:15 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:33:20 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:33:25 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:33:30 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:33:35 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:33:40 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:33:45 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:33:50 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:33:55 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:34:00 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:34:05 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:34:10 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:34:15 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:34:20 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:34:25 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:34:30 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:34:36 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:34:41 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:34:46 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:34:51 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:34:56 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:35:01 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:35:06 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:35:11 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:35:16 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:35:21 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:35:26 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:35:31 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:35:36 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:35:41 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:35:46 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:35:51 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:35:56 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:36:01 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:36:06 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:36:11 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:36:16 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:36:21 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:36:26 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:36:31 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:36:36 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:36:41 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:36:46 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:36:51 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:36:56 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:37:01 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:37:06 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:37:11 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:37:16 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:37:21 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:37:26 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:37:31 - 0 clients connected (0 slaves), 533468 bytes in use
+[31136] 16 Feb 04:37:33 - Accepted 127.0.0.1:59216
+[31136] 16 Feb 04:37:33 - Client closed connection
+[31136] 16 Feb 04:37:36 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:37:36 - 0 clients connected (0 slaves), 533576 bytes in use
+[31136] 16 Feb 04:37:40 - Accepted 127.0.0.1:59217
+[31136] 16 Feb 04:37:40 - Client closed connection
+[31136] 16 Feb 04:37:41 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:37:41 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:37:46 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:37:46 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:37:51 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:37:51 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:37:56 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:37:56 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:38:01 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:38:01 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:38:06 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:38:06 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:38:11 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:38:11 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:38:16 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:38:16 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:38:21 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:38:21 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:38:26 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:38:26 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:38:31 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:38:31 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:38:36 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:38:36 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:38:41 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:38:41 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:38:46 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:38:46 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:38:51 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:38:51 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:38:56 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:38:56 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:39:01 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:39:01 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:39:06 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:39:06 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:39:11 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:39:11 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:39:16 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:39:16 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:39:21 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:39:21 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:39:26 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:39:26 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:39:31 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:39:31 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:39:36 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:39:36 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:39:41 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:39:41 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:39:46 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:39:46 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:39:51 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:39:51 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:39:56 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:39:56 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:40:01 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:40:01 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:40:06 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:40:06 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:40:11 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:40:11 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:40:16 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:40:16 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:40:21 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:40:21 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:40:26 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:40:26 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:40:31 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:40:31 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:40:36 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:40:36 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:40:41 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:40:41 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:40:46 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:40:46 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:40:51 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:40:51 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:40:56 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:40:56 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:41:01 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:41:01 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:41:06 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:41:06 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:41:11 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:41:11 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:41:16 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:41:16 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:41:21 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:41:21 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:41:26 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:41:26 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:41:31 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:41:31 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:41:36 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:41:36 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:41:41 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:41:41 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:41:46 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:41:46 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:41:51 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:41:51 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:41:56 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:41:56 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:42:01 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:42:01 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:42:06 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:42:06 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:42:11 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:42:11 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:42:16 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:42:16 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:42:21 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:42:21 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:42:26 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:42:26 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:42:31 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:42:31 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:42:36 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:42:36 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:42:41 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:42:41 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:42:46 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:42:46 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:42:51 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:42:51 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:42:56 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:42:56 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:43:01 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:43:01 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:43:06 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:43:06 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:43:11 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:43:11 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:43:16 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:43:16 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:43:21 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:43:21 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:43:26 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:43:26 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:43:31 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:43:31 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:43:36 - DB 0: 1 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:43:36 - 0 clients connected (0 slaves), 533640 bytes in use
+[31136] 16 Feb 04:43:39 - Accepted 127.0.0.1:47171
+[31136] 16 Feb 04:43:39 - Client closed connection
+[31136] 16 Feb 04:43:41 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:43:41 - 0 clients connected (0 slaves), 533740 bytes in use
+[31136] 16 Feb 04:43:46 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:43:46 - 0 clients connected (0 slaves), 533740 bytes in use
+[31136] 16 Feb 04:43:51 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:43:51 - 0 clients connected (0 slaves), 533740 bytes in use
+[31136] 16 Feb 04:43:57 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:43:57 - 0 clients connected (0 slaves), 533740 bytes in use
+[31136] 16 Feb 04:44:02 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:44:02 - 0 clients connected (0 slaves), 533740 bytes in use
+[31136] 16 Feb 04:44:07 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:44:07 - 0 clients connected (0 slaves), 533740 bytes in use
+[31136] 16 Feb 04:44:12 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:44:12 - 0 clients connected (0 slaves), 533740 bytes in use
+[31136] 16 Feb 04:44:17 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:44:17 - 0 clients connected (0 slaves), 533740 bytes in use
+[31136] 16 Feb 04:44:22 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:44:22 - 0 clients connected (0 slaves), 533740 bytes in use
+[31136] 16 Feb 04:44:27 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:44:27 - 0 clients connected (0 slaves), 533740 bytes in use
+[31136] 16 Feb 04:44:32 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:44:32 - 0 clients connected (0 slaves), 533740 bytes in use
+[31136] 16 Feb 04:44:37 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:44:37 - 0 clients connected (0 slaves), 533740 bytes in use
+[31136] 16 Feb 04:44:40 - Accepted 127.0.0.1:49960
+[31136] 16 Feb 04:44:40 - Client closed connection
+[31136] 16 Feb 04:44:41 - Accepted 127.0.0.1:49961
+[31136] 16 Feb 04:44:41 - Client closed connection
+[31136] 16 Feb 04:44:41 - Accepted 127.0.0.1:49962
+[31136] 16 Feb 04:44:41 - Client closed connection
+[31136] 16 Feb 04:44:42 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:44:42 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:44:44 - Accepted 127.0.0.1:49963
+[31136] 16 Feb 04:44:44 - Client closed connection
+[31136] 16 Feb 04:44:44 - Accepted 127.0.0.1:49964
+[31136] 16 Feb 04:44:44 - Client closed connection
+[31136] 16 Feb 04:44:45 - Accepted 127.0.0.1:49965
+[31136] 16 Feb 04:44:45 - Client closed connection
+[31136] 16 Feb 04:44:45 - Accepted 127.0.0.1:49966
+[31136] 16 Feb 04:44:45 - Client closed connection
+[31136] 16 Feb 04:44:45 - Accepted 127.0.0.1:49967
+[31136] 16 Feb 04:44:45 - Client closed connection
+[31136] 16 Feb 04:44:46 - Accepted 127.0.0.1:49968
+[31136] 16 Feb 04:44:46 - Client closed connection
+[31136] 16 Feb 04:44:46 - Accepted 127.0.0.1:49969
+[31136] 16 Feb 04:44:46 - Client closed connection
+[31136] 16 Feb 04:44:46 - Accepted 127.0.0.1:49970
+[31136] 16 Feb 04:44:46 - Client closed connection
+[31136] 16 Feb 04:44:46 - Accepted 127.0.0.1:49971
+[31136] 16 Feb 04:44:46 - Client closed connection
+[31136] 16 Feb 04:44:47 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:44:47 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:44:47 - Accepted 127.0.0.1:49972
+[31136] 16 Feb 04:44:47 - Client closed connection
+[31136] 16 Feb 04:44:47 - Accepted 127.0.0.1:49973
+[31136] 16 Feb 04:44:47 - Client closed connection
+[31136] 16 Feb 04:44:47 - Accepted 127.0.0.1:49974
+[31136] 16 Feb 04:44:47 - Client closed connection
+[31136] 16 Feb 04:44:48 - Accepted 127.0.0.1:49975
+[31136] 16 Feb 04:44:48 - Client closed connection
+[31136] 16 Feb 04:44:48 - Accepted 127.0.0.1:49976
+[31136] 16 Feb 04:44:48 - Client closed connection
+[31136] 16 Feb 04:44:48 - Accepted 127.0.0.1:49977
+[31136] 16 Feb 04:44:48 - Client closed connection
+[31136] 16 Feb 04:44:48 - Accepted 127.0.0.1:49978
+[31136] 16 Feb 04:44:48 - Client closed connection
+[31136] 16 Feb 04:44:49 - Accepted 127.0.0.1:49979
+[31136] 16 Feb 04:44:49 - Client closed connection
+[31136] 16 Feb 04:44:49 - Accepted 127.0.0.1:49980
+[31136] 16 Feb 04:44:49 - Client closed connection
+[31136] 16 Feb 04:44:49 - Accepted 127.0.0.1:49981
+[31136] 16 Feb 04:44:49 - Client closed connection
+[31136] 16 Feb 04:44:49 - Accepted 127.0.0.1:49982
+[31136] 16 Feb 04:44:49 - Client closed connection
+[31136] 16 Feb 04:44:50 - Accepted 127.0.0.1:49983
+[31136] 16 Feb 04:44:50 - Client closed connection
+[31136] 16 Feb 04:44:50 - Accepted 127.0.0.1:49984
+[31136] 16 Feb 04:44:50 - Client closed connection
+[31136] 16 Feb 04:44:50 - Accepted 127.0.0.1:49985
+[31136] 16 Feb 04:44:50 - Client closed connection
+[31136] 16 Feb 04:44:51 - Accepted 127.0.0.1:49986
+[31136] 16 Feb 04:44:51 - Client closed connection
+[31136] 16 Feb 04:44:51 - Accepted 127.0.0.1:49987
+[31136] 16 Feb 04:44:51 - Client closed connection
+[31136] 16 Feb 04:44:51 - Accepted 127.0.0.1:49988
+[31136] 16 Feb 04:44:51 - Client closed connection
+[31136] 16 Feb 04:44:51 - Accepted 127.0.0.1:49989
+[31136] 16 Feb 04:44:51 - Client closed connection
+[31136] 16 Feb 04:44:52 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:44:52 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:44:52 - Accepted 127.0.0.1:49990
+[31136] 16 Feb 04:44:52 - Client closed connection
+[31136] 16 Feb 04:44:52 - Accepted 127.0.0.1:49991
+[31136] 16 Feb 04:44:52 - Client closed connection
+[31136] 16 Feb 04:44:52 - Accepted 127.0.0.1:49992
+[31136] 16 Feb 04:44:52 - Client closed connection
+[31136] 16 Feb 04:44:52 - Accepted 127.0.0.1:49993
+[31136] 16 Feb 04:44:52 - Client closed connection
+[31136] 16 Feb 04:44:53 - Accepted 127.0.0.1:49994
+[31136] 16 Feb 04:44:53 - Client closed connection
+[31136] 16 Feb 04:44:53 - Accepted 127.0.0.1:49995
+[31136] 16 Feb 04:44:53 - Client closed connection
+[31136] 16 Feb 04:44:53 - Accepted 127.0.0.1:49996
+[31136] 16 Feb 04:44:53 - Client closed connection
+[31136] 16 Feb 04:44:54 - Accepted 127.0.0.1:49997
+[31136] 16 Feb 04:44:54 - Client closed connection
+[31136] 16 Feb 04:44:54 - Accepted 127.0.0.1:49998
+[31136] 16 Feb 04:44:54 - Client closed connection
+[31136] 16 Feb 04:44:57 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:44:57 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:45:02 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:45:02 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:45:07 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:45:07 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:45:12 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:45:12 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:45:17 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:45:17 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:45:22 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:45:22 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:45:27 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:45:27 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:45:32 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:45:32 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:45:37 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:45:37 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:45:42 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:45:42 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:45:47 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:45:47 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:45:52 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:45:52 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:45:57 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:45:57 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:46:02 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:46:02 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:46:07 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:46:07 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:46:12 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:46:12 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:46:17 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:46:17 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:46:22 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:46:22 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:46:27 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:46:27 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:46:32 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:46:32 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:46:37 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:46:37 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:46:42 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:46:42 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:46:47 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:46:47 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:46:52 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:46:52 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:46:57 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:46:57 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:47:02 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:47:02 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:47:07 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:47:07 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:47:12 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:47:12 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:47:17 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:47:17 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:47:22 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:47:22 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:47:27 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:47:27 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:47:32 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:47:32 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:47:37 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:47:37 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:47:42 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:47:42 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:47:47 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:47:47 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:47:52 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:47:52 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:47:57 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:47:57 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:48:02 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:48:02 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:48:07 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:48:07 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:48:12 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:48:12 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:48:17 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:48:17 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:48:22 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:48:22 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:48:27 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:48:27 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:48:32 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:48:32 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:48:37 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:48:37 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:48:42 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:48:42 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:48:47 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:48:47 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:48:52 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:48:52 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:48:57 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:48:57 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:49:02 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:49:02 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:49:07 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:49:07 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:49:12 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:49:12 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:49:17 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:49:17 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:49:22 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:49:22 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:49:27 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:49:27 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:49:32 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:49:32 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:49:37 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:49:37 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:49:42 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:49:42 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:49:47 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:49:47 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:49:52 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:49:52 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:49:57 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:49:57 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:50:02 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:50:02 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:50:07 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:50:07 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:50:12 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:50:12 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:50:17 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:50:17 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:50:22 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:50:22 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:50:27 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:50:27 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:50:32 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:50:32 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:50:37 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:50:37 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:50:42 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:50:42 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:50:47 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:50:47 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:50:52 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:50:52 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:50:57 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:50:57 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:51:02 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:51:02 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:51:07 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:51:07 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:51:12 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:51:12 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:51:17 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:51:17 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:51:22 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:51:22 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:51:27 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:51:27 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:51:32 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:51:32 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:51:37 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:51:37 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:51:42 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:51:42 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:51:47 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:51:47 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:51:52 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:51:52 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:51:57 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:51:57 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:52:02 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:52:02 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:52:07 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:52:07 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:52:12 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:52:12 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:52:17 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:52:17 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:52:22 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:52:22 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:52:27 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:52:27 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:52:32 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:52:32 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 04:52:37 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 04:52:37 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:52:42 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:52:42 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:52:47 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:52:47 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:52:52 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:52:52 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:52:57 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:52:57 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:53:02 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:53:02 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:53:07 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:53:07 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:53:12 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:53:12 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:53:17 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:53:17 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:53:22 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:53:22 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:53:27 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:53:27 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:53:32 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:53:32 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:53:37 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:53:37 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:53:42 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:53:42 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:53:48 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:53:48 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:53:53 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:53:53 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:53:58 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:53:58 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:54:03 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:54:03 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:54:08 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:54:08 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:54:13 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:54:13 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:54:18 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:54:18 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:54:23 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:54:23 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:54:28 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:54:28 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:54:33 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:54:33 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:54:38 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:54:38 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:54:43 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:54:43 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:54:48 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:54:48 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:54:53 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:54:53 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:54:58 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:54:58 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:55:03 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:55:03 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:55:08 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:55:08 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:55:13 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:55:13 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:55:18 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:55:18 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:55:23 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:55:23 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:55:28 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:55:28 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:55:33 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:55:33 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:55:38 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:55:38 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:55:43 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:55:43 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:55:48 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:55:48 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:55:53 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:55:53 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:55:58 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:55:58 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:56:03 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:56:03 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:56:08 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:56:08 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:56:13 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:56:13 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:56:18 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:56:18 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:56:23 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:56:23 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:56:28 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:56:28 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:56:33 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:56:33 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:56:38 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:56:38 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:56:43 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:56:43 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:56:48 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:56:48 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:56:53 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:56:53 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:56:58 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:56:58 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:57:03 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:57:03 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:57:08 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:57:08 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:57:13 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:57:13 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:57:18 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:57:18 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:57:23 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:57:23 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:57:28 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:57:28 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:57:33 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:57:33 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:57:38 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:57:38 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:57:43 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:57:44 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:57:49 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:57:49 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:57:54 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:57:54 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:57:59 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:57:59 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:58:04 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:58:04 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:58:09 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:58:09 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:58:14 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:58:14 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:58:19 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:58:19 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:58:24 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:58:24 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:58:29 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:58:29 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:58:34 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:58:34 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:58:39 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:58:39 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:58:44 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:58:44 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:58:49 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:58:49 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:58:55 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:58:55 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:59:00 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:59:00 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:59:05 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:59:05 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:59:10 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:59:10 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:59:15 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:59:15 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:59:20 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:59:20 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:59:25 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:59:25 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:59:30 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:59:30 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:59:35 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:59:35 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:59:40 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:59:40 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:59:45 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:59:45 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:59:50 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:59:50 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 15 Feb 23:59:55 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 15 Feb 23:59:55 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:00:00 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:00:00 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:00:05 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:00:05 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:00:10 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:00:10 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:00:15 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:00:15 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:00:20 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:00:20 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:00:25 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:00:25 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:00:30 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:00:30 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:00:35 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:00:35 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:00:40 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:00:40 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:00:45 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:00:45 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:00:50 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:00:50 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:00:55 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:00:55 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:01:00 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:01:00 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:01:05 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:01:05 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:01:10 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:01:10 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:01:15 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:01:15 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:01:20 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:01:20 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:01:25 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:01:25 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:01:30 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:01:30 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:01:35 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:01:35 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:01:40 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:01:40 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:01:45 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:01:45 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:01:50 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:01:50 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:01:55 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:01:55 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:02:00 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:02:00 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:02:05 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:02:05 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:02:10 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:02:10 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:02:15 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:02:15 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:02:20 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:02:20 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:02:25 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:02:25 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:02:30 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:02:30 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:02:35 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:02:35 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:02:40 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:02:40 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:02:45 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:02:45 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:02:50 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:02:50 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:02:55 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:02:55 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:03:00 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:03:00 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:03:05 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:03:05 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:03:10 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:03:10 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:03:15 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:03:15 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:03:20 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:03:20 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:03:25 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:03:25 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:03:30 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:03:30 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:03:35 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:03:35 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:03:40 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:03:40 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:03:45 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:03:45 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:03:50 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:03:50 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:03:55 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:03:55 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:04:00 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:04:00 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:04:05 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:04:05 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:04:10 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:04:10 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:04:15 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:04:15 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:04:20 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:04:20 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:04:25 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:04:25 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:04:30 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:04:30 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:04:35 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:04:35 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:04:40 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:04:40 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:04:45 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:04:45 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:04:50 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:04:50 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:04:55 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:04:55 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:05:00 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:05:00 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:05:05 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:05:05 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:05:10 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:05:10 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:05:15 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:05:15 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:05:20 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:05:20 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:05:25 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:05:25 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:05:30 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:05:30 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:05:35 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:05:35 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:05:40 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:05:40 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:05:45 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:05:45 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:05:50 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:05:50 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:05:55 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:05:55 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:06:00 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:06:00 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:06:05 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:06:05 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:06:10 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:06:10 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:06:15 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:06:15 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:06:20 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:06:20 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:06:25 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:06:25 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:06:30 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:06:30 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:06:35 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:06:35 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:06:40 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:06:40 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:06:45 - DB 0: 2 keys (0 volatile) in 4 slots HT.
+[31136] 16 Feb 00:06:45 - 0 clients connected (0 slaves), 533900 bytes in use
+[31136] 16 Feb 00:06:49 # SIGTERM received, scheduling shutting down...
+[31136] 16 Feb 00:06:49 # User requested shutdown, saving DB...
+[31136] 16 Feb 00:06:49 * DB saved on disk
+[31136] 16 Feb 00:06:49 # 533900 bytes used at exit
+[31136] 16 Feb 00:06:49 # Server exit now, bye bye...
